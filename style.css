@@ -1,0 +1,42 @@
+body{
+background:#D1EEEE;
+}
+
+h1{
+background:red;
+ont-size:1.9em;
+border:inset 10px red;
+}
+
+h2{
+background:red;
+font-size:1.6em;
+border:inset 10px red;
+
+}
+
+h3{
+
+border-color:yellowgreen;
+border-style:solid;
+border-width:0.2em 28em 0.2em 
+0.2em;
+background:pink;
+
+}
+li{
+
+border.6px purple;
+border-bottom-style:double;
+
+
+
+}
+
+p{
+border-color:yellowgreen;
+border-style:solid;
+border-width:0.2em 0.2em 0.2em 
+0.2em;
+background:pink;
+}
